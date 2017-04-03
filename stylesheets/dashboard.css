@@ -336,3 +336,22 @@ footer .container .row .col .social-media .social-wrapper a {
   color: #2e3d49;
   padding: 20%;
 }
+
+#form-satu {
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+#form-satu .container {
+  position: relative;
+}
+#form-satu .container .row {
+  border-left: 3px solid #73D6E7;
+  padding: 25px;
+}
+#form-satu .container .row form .col .row {
+  border-left: none;
+  padding: 0px;
+}
+#form-satu .container .row form .col .row .material-icons {
+  color: #73D6E7;
+}
